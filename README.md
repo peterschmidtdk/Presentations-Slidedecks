@@ -6,7 +6,7 @@ Here are some of the areas which I often have covered:
 - Microsoft 365 Security
 - Email Security
 - Tenant-to-tenant Migrations
-- Microsoft Information Protection / Purview
+- Microsoft Information Protection & Purview
 - Microsoft 365 Copilot
 - Microsoft 365
 - Office 365
