@@ -12,8 +12,9 @@ Feel free to reach out if you have any questions in regards to
 ## List of speaking engagements:
 📅 2026
 - Workplace Ninja DK
-- 📅 2025
+📅 2025
 - Workplace Ninja DK
+
 
 📅 2022
 - Workplace Ninja DK - Ignite After Party - Nov 2022 - Session: [💾 <a href = "https://github.com/peterschmidtdk/Slidedecks/blob/main/2022/2022.11.11%20-%20Microsoft%20Ignite%20After%20Party%20-%20WP%20Ninja%20-%20M365%20Modern%20Work%20and%20Collaboration.pdf"> News from Ignite on Microsoft 365</a>]
