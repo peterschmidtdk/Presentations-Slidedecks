@@ -2,8 +2,15 @@
 This repository contains a subset of the slide decks I used while presenting and co-presenting with community friends at various conferences, user groups and webinars.
 
 Here are some of the areas which I often have covered:
+- Defender for Office
+- Microsoft 365 Security
+- Tenant-to-tenant Migrations
 - Microsoft 365
 - Office 365
+- Microsoft Information Protection / Purview
+- Exchange Server and Exchange Online
+- Email Security
+- Microsoft Teams
 - Microsoft Security
 - Azure Security
 
