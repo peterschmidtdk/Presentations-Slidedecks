@@ -3,7 +3,7 @@ This repository contains a subset of the slide decks I used while presenting and
 
 Here are some of the areas which I often have covered:
 - Defender for Office
-- Microsoft 365 Security
+- Microsoft 365 Security & Posture
 - Email Security
 - Tenant-to-tenant Migrations
 - Microsoft Information Protection & Purview
