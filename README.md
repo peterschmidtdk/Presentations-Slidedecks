@@ -4,14 +4,14 @@ This repository contains a subset of the slide decks I used while presenting and
 Here are some of the areas which I often have covered:
 - Defender for Office
 - Microsoft 365 Security
+- Email Security
 - Tenant-to-tenant Migrations
+- Microsoft Information Protection / Purview
+- Microsoft 365 Copilot
 - Microsoft 365
 - Office 365
-- Microsoft Information Protection / Purview
 - Exchange Server and Exchange Online
-- Email Security
 - Microsoft Teams
-- Microsoft Security
 - Azure Security
 
 Feel free to reach out if you have any questions in regards to 
