@@ -6,6 +6,7 @@ Here are some of the areas which I often have covered:
 - Microsoft 365 Security & Posture
 - Email Security
 - Tenant-to-tenant Migrations
+- Defender for Endpoint & Defender for Business
 - Microsoft Information Protection & Purview
 - Microsoft 365 Copilot
 - Microsoft 365
